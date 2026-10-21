@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "bokeh",
+  "repo": "bokehrs",
+  "versions": [
+    {
+      "commit": "7771574ca220470182b21db4b4e788682c85789e",
+      "parsed_at": "2026-10-21T02:59:37.625434+00:00",
+      "filetree": "filetree/7771574ca220470182b21db4b4e788682c85789e.nq.gz",
+      "blobs": [
+        "blob/85bc68dbe62af0fc99753c849f10e79321ffaf99.nq.gz",
+        "blob/ee6d4a3febc1f91e6480bd3f615a8f0ea476f34c.nq.gz",
+        "blob/5a0b914cfa7db2c102d09ff37d0040bcd54be474.nq.gz",
+        "blob/6cbbf6c69532baa709e2a8a41a9a4417bd46a8a6.nq.gz",
+        "blob/2adfe1e030dc69d7cd9e3cc172f8eb32ef6df70d.nq.gz",
+        "blob/e40c58200544cb891b9150c6b4766c47ee4459c7.nq.gz",
+        "blob/218d9db2294081f94313e7de4367102d3977be69.nq.gz",
+        "blob/6171cafdcd73c6a03c16b69199e60e0134984a3e.nq.gz",
+        "blob/d31255f480628654ccbffa83fa75716c9652f2dd.nq.gz",
+        "blob/4a4d1dda29912a4e216839c62ed8bb94d150b499.nq.gz",
+        "blob/f8a1234d0b2b01363b698a23f790f700191798c4.nq.gz",
+        "blob/c41f0a241e7053f4a201ec9e46c7ff7c71ce3f78.nq.gz",
+        "blob/2c790f1923c9cda3a7efdd616e2df563c19bc399.nq.gz",
+        "blob/cac82f213eaa64b729ba6a670c22fbc66553d1f9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
