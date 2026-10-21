@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bokeh/bokehrs/commit/7771574ca220470182b21db4b4e788682c85789e",
       "git:hexsha": "7771574ca220470182b21db4b4e788682c85789e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
